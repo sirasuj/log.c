@@ -54,4 +54,3 @@ void LOG_PRINT(char log_txt[256], ...)
         return;
 
 }
-
